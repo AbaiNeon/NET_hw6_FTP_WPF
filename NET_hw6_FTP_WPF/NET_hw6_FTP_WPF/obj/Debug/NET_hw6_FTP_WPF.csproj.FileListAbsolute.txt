@@ -1,0 +1,17 @@
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\App.g.cs
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF_MarkupCompile.cache
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF_MarkupCompile.lref
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\bin\Debug\NET_hw6_FTP_WPF.exe.config
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\bin\Debug\NET_hw6_FTP_WPF.exe
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\bin\Debug\NET_hw6_FTP_WPF.pdb
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\ListWindow.g.cs
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\ListWindow.baml
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\MainWindow.baml
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.g.resources
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.Properties.Resources.resources
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.csproj.GenerateResource.cache
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.exe
+C:\Users\Abay-PC\source\repos\NET_hw6_FTP_WPF\NET_hw6_FTP_WPF\obj\Debug\NET_hw6_FTP_WPF.pdb
